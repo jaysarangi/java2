@@ -1,0 +1,8 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E03E-1A54
+
+ Directory of C:\Users\JANMEJAY\Desktop\Myproject
+
+05-08-2020  16:20                 0 tsest1.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  948,774,281,216 bytes free
